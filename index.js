@@ -33,6 +33,6 @@ var theFunk = function() {
   }
 }
 
-theFunk;
+theFunk();
 
 
