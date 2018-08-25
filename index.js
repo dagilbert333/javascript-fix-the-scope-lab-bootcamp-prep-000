@@ -31,6 +31,6 @@ var theFunk = function() {
   funkyFunction();
 }
 
-theFunk();
+theFunk;
 
 
